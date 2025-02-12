@@ -2,8 +2,6 @@
 
 <p align = "center"><b>Overview</b>: A Companion Database to search though the Persona 5 main characters, their main personas, and the persona's main strengths and weaknesses. </p>
 
-  <img align = "center" src="/readme-images/Skyrim-Weapons-Search-Front-End.PNG" alt="Owl & Multiple Choice Answers">
-
 ------------
 
 ## Installation
@@ -43,7 +41,7 @@ At School of Code, our team was challenged to implement, and deploy an API using
 
 - Ensure there is a Primary Key and a Foreign Key relationship between the two tables:
 
-  <img align = "center" src="/readme-images/API_FETCH_Table.JPG" alt="P5 API Fetch Table">
+  <img align = "center" src="/readme-images/Showing_primary_key_and_foreign_key_in_constraints.JPG" alt="PK & FK">
 
 
 ## Future Milestones
