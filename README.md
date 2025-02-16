@@ -2,6 +2,8 @@
 
 <p align = "center"><b>Overview</b>: A Companion Database to search though the Persona 5 main characters, their main personas, and the persona's main strengths and weaknesses. </p>
 
+  <img align = "center" src="/readme-images/pg-Admin-ex-persona-table.JPG" alt="pgAdmin Persona Table view">
+
 ------------
 
 ## Installation
