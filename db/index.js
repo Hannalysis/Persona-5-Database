@@ -15,7 +15,7 @@ if (!connectionString) {
 export const pool = new pg.Pool({
   // Pass the connection string to the pool, so it knows how to connect to your database
   connectionString,
-  ssl: {
-    rejectUnauthorized: false, // Use with caution
-  },
+  // ssl: {
+  //   rejectUnauthorized: false, // Use with caution
+  // },
 });
